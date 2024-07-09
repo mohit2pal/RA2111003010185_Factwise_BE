@@ -25,3 +25,10 @@ def count_l(limit):
     
 upper_limit = int(input("Enter the upper limit: "))
 print("The total no of letters form 1 to ", upper_limit, "is ", count_l(upper_limit))
+
+"""
+Enter the upper limit: 1000
+The total no of letters form 1 to  1000 is  21124
+
+=== Code Execution Successful ===
+"""
